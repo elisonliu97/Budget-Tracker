@@ -1,1 +1,6 @@
 # Budget-Tracker-HW
+
+<!-- NEED TO DO -->
+DB.JS
+MANIFEST
+SERVICE WORKER
