@@ -28,7 +28,6 @@ function saveRecord(record) {
     const BudgetStore = transaction.objectStore("BudgetStore");
     // add record to object store with add method
     BudgetStore.add(record);
-
 }
 
 // function to check database
