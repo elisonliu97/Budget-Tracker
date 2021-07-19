@@ -31,8 +31,8 @@
   The application will still work offline as it is stored in the cache. When transactions are entered offline, they are stored in the cache until the application is online.
   Once the application is online again, it will update the database with the entries in the cache.
   - [Deployed Application](https://budget-tracker-el.herokuapp.com//)
-  ![image](https://user-images.githubusercontent.com/28275237/122628557-abb5a200-d084-11eb-9344-07ff8cab2229.png)
-  ![image](https://user-images.githubusercontent.com/28275237/122628541-9476b480-d084-11eb-86d0-e69ed4fed768.png)
+  ![image](https://user-images.githubusercontent.com/28275237/126215584-5e726bb8-258d-4c74-b882-cb98a7b81aed.png)
+
 
   ## License
   [MIT](https://spdx.org/licenses/MIT.html)
