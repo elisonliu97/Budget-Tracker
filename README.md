@@ -16,12 +16,6 @@
   `npm start`
   
   ## Usage
-  When first entering the application, there is a button to get started. Clicking on the button takes you to the note taking applcation.
-  The saved notes are displayed at the left side, and the right side has input boxes for the title of the note and the text body of the note.
-  When the input boxes are filled, a save icon appears in the top right corner. To save the note, click on the save icon.
-  Clicking on saved notes on the left side will bring back the saved note's data. To enter in a new note, click on the plus icon on the top right of the screen.
-  To delete a saved note, click on the trash icon next to the saved note's title.
-
   To use the application, go to the [deployed link](https://budget-tracker-el.herokuapp.com/).
   At the top of the page, there is your total budget.
   Fill in the fields required, such as a name for the transaction and the amount.
