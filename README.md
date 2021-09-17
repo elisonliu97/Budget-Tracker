@@ -4,10 +4,18 @@
   This is a web application to help track budget. The application saves transactions that you input into an online database. If there is no internet connection, it will save the transactions to cache, until the application is back online. Once the application is back online, it will send in the transactions to be saved in the database.
 
   ## Table of Contents
+  - [Tools and Technologies](#tools-and-technologies)
   - [Installation](#installation)
   - [Usage](#usage)
   - [License](#license)
   - [Contact me](#questions)
+
+  ## Tools and Technologies
+  - HTML/CSS
+  - Javascript
+  - ExpressJS
+  - MongoDB
+  - Mongoose
 
   ## Installation
   To run this application locally, clone this repository and install the dependencies using
